@@ -10,7 +10,10 @@ Carrera: Analista Programador Computacional
 
 Sede: Campus Virtual
 
+
+
  Descripción general del sistema
+ 
 
 Este proyecto corresponde al trabajo formativo de la semana 6.
 
@@ -22,42 +25,61 @@ Estructura general del proyecto
 
 src/
 
+
 ├── model/   → Clases del proyecto 
+
 ├── data/    → Clase GestorServicios (creación de objetos)
+
 ├── ui/      → Clase Main (ejecución del programa)
+
 
  Clases implementadas
  
+ 
 ServicioTuristico
+
 
 Clase que representa un servicio turístico con los atributos:
 
 nombre
+
 duracionHoras
+
 RutaGastronomica
+
 
 Hereda de ServicioTuristico:
 
 numeroDeParadas
+
 PaseoLacustre
+
 
 Hereda de ServicioTuristico:
 
 tipoEmbarcacion
+
 ExcursionCultural
+
 
 Hereda de ServicioTuristico:
 
 lugarHistorico
+
 GestorServicios
+
 
 Main
 
+
 Clase principal encargada de ejecutar el programa.
 
+
  Instrucciones para ejecutar el proyecto
+ 
 
 Clonar el repositorio desde GitHub:
+
 
 git clone https://github.com/TU-USUARIO/LlanquihueTourApp.git
 
