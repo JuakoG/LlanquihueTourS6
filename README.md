@@ -3,8 +3,11 @@ Duoc UC
  Autor del Proyecto
 
 Nombre completo: Joaquin Antonio Gonzalez Quezada
+
 Asignatura: DESARROLLO ORIENTADO A OBJETOS
+
 Carrera: Analista Programador Computacional
+
 Sede: Campus Virtual
 
  Descripción general del sistema
